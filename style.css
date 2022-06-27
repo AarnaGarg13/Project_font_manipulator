@@ -1,0 +1,50 @@
+body
+{
+    text-align: center;
+    background-image:linear-gradient(rgb(247, 105, 105) , rgb(252, 198, 96) , rgb(240, 240, 124) , rgb(128, 194, 128));
+    font-family:'Courier New', Courier, monospace;
+}
+#heading1
+{
+    font-weight: bolder;
+    color:rgb(247, 105, 105);
+    margin-top:0;
+}
+#header
+{
+    background-color: white;
+    margin-top:0;
+}
+#note
+{
+    color:rgb(252, 198, 96);
+    font-weight: bolder;
+}
+#heading2
+{
+    color:rgb(247, 105, 105);
+    font-weight: bolder;
+}
+#footer
+{
+    background-color:white;
+    color:rgb(128, 194, 128);
+    padding:10px;
+    font-weight: bolder;
+    font-size: 20px;
+    bottom:0px;
+    position:fixed;
+    width: 100%;
+}
+canvas
+{
+    background-color:white;
+    border-style:solid;
+    box-shadow: 20px red;
+    margin-left: 350;
+    margin-top: -180px;
+}
+video
+{
+    margin-right: 650px;
+}
